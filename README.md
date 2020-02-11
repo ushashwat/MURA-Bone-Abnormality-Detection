@@ -10,5 +10,5 @@ MURA is a dataset of musculoskeletal radiographs consisting of 14,863 studies fr
 
 
 # Acknowledgement
-Data: For Stanford University School of Medicine MURA Dataset Research Use Agreement, refer to: https://stanfordmlgroup.github.io/competitions/mura/
+Data: For Stanford University School of Medicine MURA Dataset Research Use Agreement, refer to: https://stanfordmlgroup.github.io/competitions/mura/ <br/>
 Corresponding paper: https://arxiv.org/abs/1712.06957
